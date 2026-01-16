@@ -1,0 +1,51 @@
+1. Definition
+	a.) Computer Program - is an instruction to which the computer executes
+	b.) Programming Language - is a set of syntax that a computer can understand
+	c.) Programming - is an act of creating a set of instructions, for a computer to follow later
+	d.) Algorithm - is a process to achieve a result
+	e.) Pseudocode - is a way to write a process to achieve a result
+	f.) Flowchart - is a visual representation of an alogorithm
+	g.) Procedure - is a set of instructions to which you expect an output/result when you have an input
+	h.) Object - is an instance of a class
+	i.) Method - is a distinct way of doing something
+	j.) Message - shows what the intended purpose of a program/person/thing	
+	k.) Response - is what the creator of the message receive after he sends a message to someone
+	l.) Class - is a blueprint you follow to create an object
+	m.) Source Program - is the code that you write
+	n.) Compiler - is the software that compiles your source code into machine language making your source
+	code into an Object program ready for linkers to link in order to become executable.
+	o.) Object Program - is the result when your source code is compiled by your compiler.
+	p.) Executable Program - is a result when the Object Program is linked to the right libraries.
+	q.) Interpreter - interprets your code and executes it after interpreting (slower)
+
+2. Practice
+	a.) Fix a flat tire
+		a.0.) Get a jack
+		a.1.) Get a lever
+		a.2.) Place the lever correctly on the tube that is made for it, present in the jack
+		a.3.) Push and Pull the lever that you put in the jack until the tire is elevated from the 			ground
+		a.4.) Lock the jack in place
+		a.5.) Get a wrench, fit to the size of the nuts that is used to fasten the wheel
+		a.6.) Put the head of the wrench (where it fits the nut) into the nut
+		a.7.) Rotate the wrench counter-clockwise to its current position to remove the nut
+		a.8.) Do this to all the remaining nuts in the same wheel that has a flat tire
+		a.9.) Remove the wheel
+		a.10.) Get two tire wrench
+		a.11.) Put both of the tire wrench on the lowest side of the tire, relative to the rim and side			by side with a distance of 3 inches from each other
+		a.12.) Push the tire wrench down to position part of the tire above the rim
+		a.13.) Leave one tire wrench in the same position while repeat step a.11(using one wrench only) 		and step a.12 until you remove half of the tire from the rim.
+		a.14.) Remove the interior tube from the tire
+		a.15.) Get a new interior tube
+		a.16.) Replace the old interior tube
+		a.17.) ...
+
+3. Practice. Assume there are two cups of water and another empty cup, swap them. Let's name the cups A, B, and C.
+	0.) Pour the contents of Cup A to Cup C
+	1.) Wash Cup A
+	2.) Pour the contents of Cup B to Cup A
+	3.) Wash Cup B
+	4.) Pour the contents of Cub C to Cup B
+	5.) Wash Cup C
+	6.) And you're done
+
+4. 

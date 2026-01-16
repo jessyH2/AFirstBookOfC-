@@ -1,0 +1,39 @@
+1. Practice
+	1.a.) Well you only need to have one output for this problem
+	1.b.) If you use a struct of the piggybank containing all the dollar bills and coins then you only need		one input, however if you treat every type of coin as an input then you have to have five		inputs in this scenario.
+	1.c.) For struct piggybank:
+		Step 0: Pass the piggybank as an input
+		Step 1: Set a double variable to contain the amount of money inside that piggybank
+		Step 2: Count the number of half dollar coin
+		Step 3: Multiply the number of half dollar coin to it's value and add it to the double variable
+		Step 4: Do step two and step three but instead of half dollar, you do it with the quarters,			dimes, nickels, and pennies
+		Step 5: Return/print the amount that the double variable contain and you have the total number 			of money that is contained in that piggybank.
+	
+	For using the individual counts of coins inside a piggybank on the other hand, you will still use the same algorithm as above but instead of passing the piggybank as the input you are going to pass each of the count of the named coins as Step 0.
+
+IN CODE:
+	#include<stdio.h>
+	
+	using namespace std;
+	
+	typdef struct{
+		int numOfHalfDollar;
+		int numOfQuarters;
+		int numOfDimes;
+		int numOfNickels;
+		int numOfPennies;
+	}piggyBank;
+
+	// the function here
+	
+	int main()
+	{
+		// create an instance of the struct piggybank
+		// prompt the user to input the number of coins of each type that is present in the piggybank
+		// use the function to total the amount of money that is present in the the piggybank
+		// print the result
+		
+		return 0;
+	}
+
+
