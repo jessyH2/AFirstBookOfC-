@@ -48,4 +48,60 @@
 	5.) Wash Cup C
 	6.) And you're done
 
-4. 
+4. Practice. Detailed set of instructions to calculate the dollar amount of money in a piggybank that contains half-dollars, quarters, nickels, dimes, and pennies.
+	0.) Remove the coins out of the piggybank
+	1.) Prepare a tally to list all the contents of your piggybank
+	2.) Count how many half-dollars are there inside the piggybank
+	3.) Multiply it to 0.5 and add it to your tally.
+	4.) Count how many quarters are there inside the piggybank
+	5.) Multiply it to 0.25 and add it to your tally.
+	6.) Count how many nickels are there inside the piggybank
+	7.) Multiply it to 0.05 and add it to your tally.
+	8.) Count how many dimes are there inside the piggybank
+	9.) Multiply it to 0.10 and add it to your tally.
+	10.) Count how many pennies are there inside the piggybank
+	11.) Multiply it to 0.01 and add it to your tally.
+
+5. Practice. Write a set of instructions to find the smallest number in a group of three integer numbers
+	0.) compare the first number with the second number
+	1.) if the first number is smaller than the second number, check if it is smaller than the third number
+	2.) if the first number is smaller than the third number then it is the smallest
+	3.) if the first number is bigger than the second number, check if the second number is smaller than the third number.
+	4.) if the second number is smaller than the third number then the second number is the smallest number
+	5.) if none of those are true, then the third number is the smallest.
+
+6. Practice. Instructions to calculate the fewest number of dollar bills needed to pay a bill of amount TOTAL
+	0.) Divide the TOTAL bill with 100 and take note of the remainder as well as the result
+	1.) Divide the remainder in step 0 with 50 and take note of the remainder as well as the result
+	2.) Divide the remainder in step 1 with 20 and take note of the remainder as well as the result
+	3.) Divide the remainder in step 2 with 10 and take note of the remainder as well as the result
+	4.) Divide the remainder in step 3 with 5 and take note of the remainder as well as the result
+	5.) Divide the remainder in step 4 with 1 and ceil the result so that you have enough money to pay
+	6.) Get all your bills with the count that is with respect to the result when you divided the TOTAL as well as the remainders
+
+7. Practice. Write an algorithm to locate the first occurrence of the name JEAN in a list of names arranged in a random order
+	Thought Process: When you are finding an instance of a name in a list that is unsorted you might want to sort it first. But in a case where you cannot sort them, your only option is to run through all the names in the list until you find the name JEAN which consumes O(n) time complexity.
+
+8. Practice. write an algorithm to sort three number in ascending order
+	0.) Compare the first number to the second number
+	1.) Compare the first number with the second number
+	2.) Compare the second number with the third number
+	3.) Compare the first number with the third number
+	4.) if the first number is less than the second and the second is less than the third number, then the order will be first, second, then third.
+	5.) if the first number is less than the second but the second is greater than the third number, then the order will be first, third, and then second.
+	6.) if the first number is greater than the second number but the second number is lesser than the third number but the first is less than the third number, then the order will be second, first, third.
+	7.) However in no.6 if the first is greater than the third number, then the order will be, second, third, first.
+	8.) When the third number is lesser than the second and the second is lesser than the first, then the order will be third, second, then first.
+	9.) But when the second is greater than the first in no.9 and the third number is lesser than the first and the second, then you have the order third, first, second.
+
+9. Practice
+	a.) int
+	b.) shape
+	c.) book
+	d.) car
+	e.) pen
+10. Practice
+	i.) the car should take fuel, consume fuel, travel distance, start, stop, and also malfunction sometimes.
+	ii.) the last ballpoint pen should be able to leave marks, leave trail of ink, and die.
+	b.) They only apply to the particular object listed since every object has their own unique attributes and functions.
+
